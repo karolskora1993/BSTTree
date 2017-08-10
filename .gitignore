@@ -1,0 +1,11 @@
+
+*.xml
+*.iml
+cmake-build-debug/
+*.xcodeproj
+
+*.xcuserstate
+
+*.txt
+
+*.xcuserstate
